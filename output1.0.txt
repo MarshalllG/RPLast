@@ -1,0 +1,365 @@
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 1
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+pippo 
+isfeasible: 0
+Placed router in cell 3 4
+Il router copre 19 celle.
+Covered: 19
+----------------------
+-########----########-
+-#11111b######......#-
+-#11r11.............#-
+-#11111.............#-
+-#11111.............#-
+-####################-
+----------------------
+Final Score: 19116
+Remaining budget: 116

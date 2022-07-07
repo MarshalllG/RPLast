@@ -1,0 +1,17 @@
+Placed router in cell 3 4
+Il router copre 19 celle.
+Covered: 19
+Placed router in cell 3 16
+Il router copre 19 celle.
+Covered: 38
+No router placed.
+----------------------
+-########----########-
+-#11111b######11111.#-
+-#11r11.......11r11.#-
+-#11111.......11111.#-
+-#11111.......11111.#-
+-####################-
+----------------------
+Final Score: 38006
+Remaining budget: 6

@@ -1,0 +1,56 @@
+size: 224
+Placed router in cell 333 270
+Il router copre 224 celle.
+Covered: 224
+size: 224
+Placed router in cell 318 270
+Il router copre 224 celle.
+Covered: 448
+size: 224
+Placed router in cell 303 270
+Il router copre 224 celle.
+Covered: 672
+size: 224
+Placed router in cell 288 270
+Il router copre 224 celle.
+Covered: 896
+size: 224
+Placed router in cell 273 270
+Il router copre 224 celle.
+Covered: 1120
+size: 224
+Placed router in cell 258 270
+Il router copre 224 celle.
+Covered: 1344
+size: 224
+Placed router in cell 243 270
+Il router copre 224 celle.
+Covered: 1568
+size: 224
+Placed router in cell 228 270
+Il router copre 224 celle.
+Covered: 1792
+size: 224
+Placed router in cell 213 270
+Il router copre 224 celle.
+Covered: 2016
+size: 224
+Placed router in cell 198 270
+Il router copre 224 celle.
+Covered: 2240
+size: 224
+Placed router in cell 183 270
+Il router copre 224 celle.
+Covered: 2464
+size: 224
+Placed router in cell 168 270
+Il router copre 224 celle.
+Covered: 2688
+size: 224
+Placed router in cell 153 270
+Il router copre 224 celle.
+Covered: 2912
+size: 224
+Placed router in cell 138 270
+Il router copre 224 celle.
+Covered: 3136
